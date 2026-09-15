@@ -1,0 +1,5 @@
+version: '3.8'
+
+services:
+  # Services are added here as each layer is implemented.
+  # Planned: api (ai-core + fullstack backend), searxng, frontend

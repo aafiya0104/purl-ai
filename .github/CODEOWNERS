@@ -1,0 +1,9 @@
+# Aafiya has final review authority across the entire project.
+# The wildcard rule below applies to anything not matched more specifically.
+*                     @aafiya0104
+
+/ai-core/             @aafiya0104
+/fullstack/           @aafiya0104 @Maryamm07
+/testing/             @aafiya0104
+/security/            @aafiya0104 @Shifashaikh06
+/production/          @aafiya0104 @falak02

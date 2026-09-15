@@ -1,0 +1,8 @@
+# AI core dependencies
+fastapi
+uvicorn
+ollama
+chromadb
+sentence-transformers
+requests
+pydantic
