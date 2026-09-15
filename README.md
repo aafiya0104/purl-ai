@@ -27,10 +27,10 @@ purl-ai/
 
 ## Branch and merge authority
 
-- `main` and `dev` are protected branches. No one pushes to them directly.
-- Everyone branches off `dev`, opens a pull request, and waits for review.
+- `main` and `aafia_dev` are protected branches. No one pushes to them directly.
+- Everyone branches off `aafia_dev`, opens a pull request, and waits for review.
 - **Aafiya has final review and merge authority across the entire repository**, regardless of which folder a PR touches. See `.github/CODEOWNERS`.
-- Teammates own their folder for day-to-day work, but nothing merges into `dev` or `main` without Aafiya's approval.
+- Teammates own their folder for day-to-day work, but nothing merges into `aafia_dev` or `main` without Aafiya's approval.
 
 ## Getting started
 
